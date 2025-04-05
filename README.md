@@ -66,9 +66,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ItsAnkurPal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ItsAnkurPal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAnkurPal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stars](https://img.shields.io/github/stars/ItsAnkurPal?style=for-the-badge&logo=github&label=Total%20Stars)
+![Total Commits](https://img.shields.io/badge/Total%20Commits-9.2k+-brightgreen?style=for-the-badge&logo=git)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
