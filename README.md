@@ -1,5 +1,5 @@
 # 💫 About Me:
-📌 I'm from Delhi NCR, India.<br>🔭 I’m currently working on Gen AI & Big data Projects.<br>😄 My pronouns are: He/His/Him.<br>💞️ Looking to collaborate on Data-Related Projects.<br>🏏 Huge Cricket fan: When I'm not immersed in data, you’ll find me cheering for my favorite teams.
+📌 Hiii I'm Ankur Pal from Delhi NCR, India.<br>🔭 I’m currently working on Gen AI & Big data Projects.<br>😄 My pronouns are: He/His/Him.<br>💞️ Looking to collaborate on Data-Related Projects.<br>🏏 Huge Cricket fan: When I'm not immersed in data, you’ll find me cheering for my favorite teams.
 
 
 ## 🌐 Socials:
