@@ -43,6 +43,17 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ---
 
+### ☁️ Cloud / Azure Services
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Stream Analytics](https://img.shields.io/badge/Azure%20Stream%20Analytics-0089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure SQL Database](https://img.shields.io/badge/Azure%20SQL%20Database-0089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Event Hubs](https://img.shields.io/badge/Azure%20Event%20Hubs-0089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+
 ### 🌐 Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
