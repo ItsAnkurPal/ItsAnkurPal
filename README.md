@@ -181,13 +181,7 @@ Experience with databases, data transformation, data migration, and enterprise d
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stars](https://img.shields.io/github/stars/ItsAnkurPal?style=for-the-badge\&logo=github\&label=Total%20Stars)
-
-![Total Commits](https://img.shields.io/badge/Total%20Commits-9.2k+-brightgreen?style=for-the-badge\&logo=git)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ItsAnkurPal\&theme=darkhub\&no-frame=true\&title=Stars,Commits,Followers,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+# 📊 GitHub Stats: ![GitHub Stars](https://img.shields.io/github/stars/ItsAnkurPal?style=for-the-badge&logo=github&label=Total%20Stars) ![Total Commits](https://img.shields.io/badge/Total%20Commits-9.2k+-brightgreen?style=for-the-badge&logo=git) [![trophy](https://github-profile-trophy.vercel.app/?username=ItsAnkurPal&theme=darkhub&no-frame=true&title=Stars,Commits,Followers,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
